@@ -23,7 +23,8 @@ Compilation
 Assembly
 Linking
 Preprocessor
-In the preprocessor step, the compiler looks over all of the code and, before it does ANYTHING, runs macros on lines in the code that represent preprocessor macros. Some of these macros are the following...
+In the preprocessor step, the compiler looks over all of the code and, before it does ANYTHING, runs macros on lines in the code that represent preprocessor macros. 
+Some of these macros are the following...
 
 #define: Defines a macro.
 Example: #define PI 3.14

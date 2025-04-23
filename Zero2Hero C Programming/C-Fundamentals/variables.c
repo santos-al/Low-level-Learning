@@ -22,7 +22,7 @@ int main() {
     // You can identify additional sub scopes inside a function by adding another set of parentheses
     personID += 1;
     {
-        // This is a sub scope the the seocnd line of code does not affect any of the person IDs outside of this subscope
+        // This is a sub scope the the second line of code does not affect any of the person IDs outside of this subscope
         int personID = 0;
         personID = 3;
     }
